@@ -1,0 +1,59 @@
+.infobox {
+    position: absolute;
+    background-color: transparent;
+    background-position: 0;
+    background-repeat: no-repeat;
+    font-size: 11px;
+    color: #eee;
+}
+
+.infobox-top-big {
+    background-image: url(./images/black_arrow_top_big.png);
+    height: 163px;
+    width: 310px;
+    padding: 40px 30px 10px 30px;
+}
+
+.infobox-top-medium {
+    background-image: url(./images/black_arrow_top_medium.png);
+    height: 95px;
+    width: 220px;
+    padding: 40px 35px;
+}
+
+.infobox-top-tiny {
+    background-image: url(./images/black_arrow_top_tiny.png);
+    height: 70px;
+    width: 160px;
+    padding: 25px;
+}
+
+.infobox-bottom-big {
+    background-image: url(./images/black_arrow_bottom_big.png);
+    height: 163px;
+    width: 310px;
+    padding: 40px 30px 10px 30px;
+}
+
+.infobox-bottom-medium {
+    background-image: url(./images/black_arrow_bottom_medium.png);
+    height: 95px;
+    width: 220px;
+    padding: 40px 35px;
+}
+
+.infobox-bottom-tiny {
+    background-image: url(./images/black_arrow_bottom_tiny.png);
+    height: 70px;
+    width: 160px;
+    padding: 25px;
+}
+
+.infobox-content {
+    padding: 5px 5px 5px 5px;
+}
+
+.infobox-content p {
+    margin: 3px 0;
+}
+
